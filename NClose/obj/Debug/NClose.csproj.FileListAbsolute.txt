@@ -1,0 +1,11 @@
+C:\Git\Mo\NClose\obj\Debug\NClose.csprojResolveAssemblyReference.cache
+C:\Git\Mo\NClose\bin\Debug\NClose.dll
+C:\Git\Mo\NClose\bin\Debug\NClose.pdb
+C:\Git\Mo\NClose\obj\Debug\NClose.dll
+C:\Git\Mo\NClose\obj\Debug\NClose.pdb
+C:\Git\Mo\NClose\bin\Debug\NClose.dll.config
+C:\Git\NClose\NClose\bin\Debug\NClose.dll
+C:\Git\NClose\NClose\bin\Debug\NClose.pdb
+C:\Git\NClose\NClose\obj\Debug\NClose.csprojResolveAssemblyReference.cache
+C:\Git\NClose\NClose\obj\Debug\NClose.dll
+C:\Git\NClose\NClose\obj\Debug\NClose.pdb

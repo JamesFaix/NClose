@@ -1,0 +1,14 @@
+﻿<#@ template debug="true" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="$(TargetPath)" #>
+<#@ output extension=".cs" #>
+
+using System;
+
+namespace NClose {
+
+    public static class Extensions {
+
+        <#= NClose.Generator.GetEncloseFrom1ToNArgs(8) #>
+    }
+}
