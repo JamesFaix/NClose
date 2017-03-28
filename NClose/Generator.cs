@@ -34,10 +34,10 @@ namespace NClose {
             GetEnclose(paramCount, hasResult, 1, paramCount, 0, 0, "");
 
         static string GetLeftEnclose(int paramCount, bool hasResult, int enclosedParams) =>
-            GetEnclose(paramCount, hasResult, 1, enclosedParams, enclosedParams + 1, paramCount, "L" + enclosedParams);
+            GetEnclose(paramCount, hasResult, 1, enclosedParams, enclosedParams + 1, paramCount, "L");
 
         static string GetRightEnclose(int paramCount, bool hasResult, int enclosedParams) =>
-            GetEnclose(paramCount, hasResult, paramCount - enclosedParams + 1, paramCount, 1, paramCount - enclosedParams, "R" + enclosedParams);
+            GetEnclose(paramCount, hasResult, paramCount - enclosedParams + 1, paramCount, 1, paramCount - enclosedParams, "R");
 
         static string GetEnclose(int paramCount, bool hasResult,
             int firstClosedParam, int lastClosedParam, int firstOpenParam, int lastOpenParam,
